@@ -24,6 +24,7 @@ Each SQL problem contains:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/bhargavtimbadiya1010/LEETCODE_SQL/tree/main/0197-rising-temperature/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/bhargavtimbadiya1010/LEETCODE_SQL/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/bhargavtimbadiya1010/LEETCODE_SQL/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/bhargavtimbadiya1010/LEETCODE_SQL/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/bhargavtimbadiya1010/LEETCODE_SQL/tree/main/0595-big-countries/) | Easy |
