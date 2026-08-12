@@ -17,3 +17,11 @@ Each SQL problem contains:
 - 💻 SQL Query
 - 💡 Explanation
 - 🖥️ Output (where applicable)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/bhargavtimbadiya1010/LEETCODE_SQL/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+<!---LeetCode Topics End-->
