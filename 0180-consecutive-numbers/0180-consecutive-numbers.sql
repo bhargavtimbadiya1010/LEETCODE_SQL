@@ -1,0 +1,8 @@
+# Write your MySQL query statement below
+SELECT DISTINCT L1.NUM AS ConsecutiveNums FROM LOGS L1
+JOIN LOGS L2
+JOIN LOGS L3
+ON L2.ID = L1.ID + 1 
+AND L3.ID = L2.ID + 1
+WHERE L1.NUM = L2.NUM 
+AND L2.NUM = L3.NUM;
